@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Grid","order":3,"path":"objects/Grid/Grid.yy",},
+    {"name":"Obj_InMatchGrannyguri","order":2,"path":"objects/Obj_InMatchGrannyguri/Obj_InMatchGrannyguri.yy",},
+    {"name":"Obj_PCursor","order":1,"path":"objects/Obj_PCursor/Obj_PCursor.yy",},
+    {"name":"Spr_P1GRID","order":5,"path":"sprites/Spr_P1GRID/Spr_P1GRID.yy",},
+    {"name":"Spr_PCursor","order":2,"path":"sprites/Spr_PCursor/Spr_PCursor.yy",},
+    {"name":"Spr_PlaceholderGrannyguri","order":4,"path":"sprites/Spr_PlaceholderGrannyguri/Spr_PlaceholderGrannyguri.yy",},
+    {"name":"Spr_PlaceholderWatty","order":3,"path":"sprites/Spr_PlaceholderWatty/Spr_PlaceholderWatty.yy",},
+  ],
+}
