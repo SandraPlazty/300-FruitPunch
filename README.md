@@ -10,3 +10,5 @@ Planned features for V1:
 2- VS mode for up to 2 players and single player arcade story mode
 
 3-  Two modes in Skill Battle (Use unique skills per character to finish off the hp of your opponent. Beware of your JP (Juice Points) and own HP though!) and Regular (No extra gimmicks attached to it)
+
+![The 5 initial Girls](https://github.com/user-attachments/assets/9a1efa8b-741a-4c9e-99cc-396fa257d240)
