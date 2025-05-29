@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_P1GRID",
-    "path":"sprites/Spr_P1GRID/Spr_P1GRID.yy",
+    "name":"Spr_PGRID",
+    "path":"sprites/Spr_PGRID/Spr_PGRID.yy",
   },
   "spriteMaskId":null,
   "visible":true,
